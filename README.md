@@ -1,1 +1,2 @@
-# rejoiceglobal
+# Rejoice Global
+Rejoice global website
